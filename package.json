@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@akadrimer/react-viro": "^2.17.0",
+    "@viro-community/react-viro": "^2.20.2",
     "fbjs": "^3.0.0",
     "react": "17.0.1",
     "react-native": "0.64.2",

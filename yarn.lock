@@ -1353,6 +1353,14 @@
   dependencies:
     eslint-visitor-keys "^1.1.0"
 
+"@viro-community/react-viro@^2.20.2":
+  version "2.20.2"
+  resolved "https://registry.yarnpkg.com/@viro-community/react-viro/-/react-viro-2.20.2.tgz#03fe3c6741950e15423ff8f7d02b7b561ff7fc2f"
+  integrity sha512-bJlEfT91ePYVigP4Zm9v4adL3Ovpt9JqozX8nWJaye4hFN+wjOJLdr03OqJzLaNfP2HfpuOJJCoaGHiAdgnPMQ==
+  dependencies:
+    create-react-class "^15.7.0"
+    prop-types "^15.5.10"
+
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.5.tgz#c0b678fb32d60fc1219c784d6a826fe385aeb79a"

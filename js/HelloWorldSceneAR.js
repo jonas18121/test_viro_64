@@ -8,7 +8,7 @@ import {
   ViroARScene,
   ViroText,
   ViroConstants,
-} from '@akadrimer/react-viro';
+} from '@viro-community/react-viro';
 
 export default class HelloWorldSceneAR extends Component {
 

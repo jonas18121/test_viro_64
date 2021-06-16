@@ -20,7 +20,7 @@ import {
 import {
   ViroVRSceneNavigator,
   ViroARSceneNavigator
-} from '@akadrimer/react-viro';
+} from '@viro-community/react-viro';
 
 /*
  TODO: Insert your API key below

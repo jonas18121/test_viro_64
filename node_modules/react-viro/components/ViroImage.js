@@ -23,7 +23,7 @@ var StyleSheet = require('react-native/Libraries/StyleSheet/StyleSheet');
 var ViroImageModule = NativeModules.VRTImageModule;
 
 var ViroPropTypes = require('./Styles/ViroPropTypes');
-var StyleSheetPropType = require('react-native/Libraries/DeprecatedPropTypes/DeprecatedStyleSheetPropType');
+var StyleSheetPropType = require('react-native/Libraries/StyleSheet/StyleSheetPropType');
 var stylePropType = StyleSheetPropType(ViroPropTypes);
 
 /**
